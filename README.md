@@ -1,4 +1,4 @@
-# GUI-Based Encrypted Chat Application
+# CryptaChat
 
 A secure, real-time chat application with GUI built using Python, Tkinter, and socket programming. It supports multiple clients, message encryption (RSA), timestamps, emojis, and file transfer (can be extended).
 
